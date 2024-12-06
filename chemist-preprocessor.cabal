@@ -3,9 +3,9 @@ name:          chemist-preprocessor
 version:       0.1.0.0
 synopsis:      Chemist Raw Data Preprocessor
 author:        Λ
-maintainer:    sobakavosne@gmail.com
+maintainer:    dmitry.sychov.software@gmail.com
 category:      Database
-homepage:      https://sobakavosne.github.io/chemist-preprocessor/
+homepage:      https://blin-da-sych.github.io/chemist-preprocessor/
 
 common shared-deps
   build-depends:
